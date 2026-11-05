@@ -1,9 +1,9 @@
-:HL["/_next/static/chunks/312ea7-wrqcda.css","style"]
+:HL["/_next/static/chunks/21n9q7an1j2fm.css","style"]
 :HL["/_next/static/media/fors-s.p.0415j2cwmaa02.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/norms_subset-s.p.2enl2txj6a--s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/onder-s.p.0d-o0-3b6ol0z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/chunks/3ri-po_7e1d71.css","style"]
+:HL["/_next/static/chunks/3v7nr2r7q22dv.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"consent","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"legal","h":64,"c":"$Q2"}]]
-0:{"b":"kbIiWpXp22nS_SIddGJZ_","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"0GgLJBZLk_miCu84EcEYD","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
